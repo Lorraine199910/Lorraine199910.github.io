@@ -1,0 +1,4 @@
+http://example.com/2024/03/26/My-New-Post/
+http://example.com/
+http://example.com/tags/%E6%9D%82%E8%B0%88/
+http://example.com/categories/%E6%96%87/
